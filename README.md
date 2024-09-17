@@ -1,3 +1,3 @@
 # Tempo-de-consulta
-Esse aplicativo vai servi para ajudar na questão de marcar consulta vai ser de maneira online e será para SUS.
-O projeto visa 
+Desenvolvimento de um aplicativo para a rede SUS que permite agendar consultas de forma online e rápida. O app também fornece orientações sobre os procedimentos necessários antes da consulta, visando reduzir o tempo de espera nas unidades de saúde.
+
