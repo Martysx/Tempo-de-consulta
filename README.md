@@ -1,5 +1,6 @@
+# Agiliza SUS 🩺
 
-                                                                        # Agiliza SUS 🩺
+# Objetivo 
 
 Este aplicativo será para a rede SUS com o objetivo de facilitar o agendamento de consultas de forma online, rápida e acessível. O app permite que os usuários consultem a disponibilidade de horários nas unidades de saúde próximas e façam o agendamento diretamente pelo celular, evitando a necessidade de comparecimento presencial apenas para marcar consultas.
 
