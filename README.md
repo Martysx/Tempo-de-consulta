@@ -2,6 +2,10 @@
 
 # Projeto interdisciplinar IFPR  📚
 
+<br>
+
+## Informações do Grupo 🙋‍♂️
+
 <br><br>
 
 _**Membros da Equipe**_
@@ -20,6 +24,7 @@ _**Membros da Equipe**_
 
 <br>
 
+## Sobre o Projeto
 __Objetivos Com Esse Projeto 🤔__
 
 > O objetivo do projeto é desenvolver um site para auxiliar a comunidade, servindo também como ponto
@@ -52,7 +57,10 @@ comunidade e entender melhor a experiência dos usuários com o sistema de marca
 
 <br>
 
-
 __Analise de Site e Sistemas do SUS__
 
 [PDF](https://docs.google.com/document/d/1lWBxkdtEhQoKBljM6-1uDyUDSsVm9_-SU2_-gIBXPpQ/edit?tab=t.0)
+
+<br>
+
+## Atividades 📄
