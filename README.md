@@ -61,12 +61,4 @@ __Analise de Site e Sistemas do SUS__
 
 [PDF](https://docs.google.com/document/d/1lWBxkdtEhQoKBljM6-1uDyUDSsVm9_-SU2_-gIBXPpQ/edit?tab=t.0)
 
-<br>
 
-## Atividades 📄
-
-<br>
-
-__Ebook__
-
-[Atvidade do Gabriel](https://docs.google.com/document/d/1rynhBY56CpSPXmJw9Tssjdr6Qb5mAQSMu4WnJvMEn6k/edit?tab=t.0)
