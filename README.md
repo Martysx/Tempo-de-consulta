@@ -64,4 +64,10 @@ consultas pelo Sitema de Sáude Brasíleiro, é uma analise critica referenten a
 
 [PDF](https://docs.google.com/document/d/1lWBxkdtEhQoKBljM6-1uDyUDSsVm9_-SU2_-gIBXPpQ/edit?tab=t.0)
 
+<br>
 
+__Telas Do Site__
+
+[Telas](https://www.figma.com/design/yG702PGdudkKZLo8RgZsod/Agenda-Sa%C3%BAde-(Community)?node-id=0-1&t=qrr9jxBnnHhjGKmw-1)
+
+<br>
