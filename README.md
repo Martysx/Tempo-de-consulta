@@ -77,3 +77,10 @@ __Apresentação__
 >Aqui temos nossa primeira apresentação do nosso projeto.
 
 [Agiliza SUS](https://docs.google.com/presentation/d/11IHEFuq0Wr9NZkB7QkeHGhlrcSKxJP6Xf99nFBaWy1w/edit#slide=id.p1)
+
+<br>
+Jira
+
+>O projeto foi implementado em um ferramenta para oraganizar nosso desenvolvimento do projeto.
+
+[Agiliza SUS]()
